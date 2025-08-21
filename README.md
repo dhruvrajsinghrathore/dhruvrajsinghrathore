@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-# Dhruvraj Singh Rathore - Personal Portfolio
-
-> **Data Science Graduate Student | AI Engineer | Full-Stack Data Professional**  
-> Passionate about leveraging AI/ML and big data technologies to solve complex business problems
-
-## 👨‍💻 Professional Summary
-
 I am a dedicated Data Science graduate student at Texas A&M University with over 3 years of professional experience in data engineering, analytics, and AI development. My expertise spans the entire data lifecycle - from building scalable ETL pipelines processing 50TB+ of data to developing intelligent AI agent systems for test automation.
 
 Currently serving as an AI Engineer Intern at TechSur Solutions, I specialize in creating multi-agent AI systems using CrewAI, LangGraph, and modern ML frameworks. My background includes roles as a Data Analyst at Draup Business Solutions and Data Scientist at HighRadius Corporation, where I've consistently delivered data-driven solutions that improve operational efficiency by 30-50%.
