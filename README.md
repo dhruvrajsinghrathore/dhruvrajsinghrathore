@@ -61,19 +61,6 @@ Currently serving as an AI Engineer Intern at TechSur Solutions, I specialize in
 **Bachelor of Technology in Computer Science** | *SRM Institute of Science and Technology* | 2018-2022  
 *CGPA: 3.8* | Strong foundation in algorithms, data structures, and software engineering
 
-## 🚀 Featured Projects
-
-### [HR Smart Screener](https://github.com/dhruvrajsinghrathore) 
-AI-powered resume analysis using BERT embeddings and LLaMA 3.2 for intelligent candidate screening
-
-### [TravelGenie](https://github.com/dhruvrajsinghrathore)
-Automated itinerary planner with RAG architecture for personalized travel recommendations
-
-### [Cotton Field Detector](https://github.com/dhruvrajsinghrathore)
-Deep learning model using U-Net for satellite image segmentation with 92% IoU accuracy
-
-### [Personalized Academic Research Assistant](https://github.com/dhruvrajsinghrathore)
-NLP-powered research tool with FAISS + SciBERT for efficient paper retrieval and summarization
 
 ## 📜 Certifications
 
@@ -89,7 +76,7 @@ NLP-powered research tool with FAISS + SciBERT for efficient paper retrieval and
 
 ## 📫 Let's Connect
 
-- **Email**: [dhruvraj16@tamu.edu](mailto:dhruvraj16@tamu.edu)
+- **Email**: [dhruvraj_16@tamu.edu](mailto:dhruvraj_16@tamu.edu)
 - **Phone**: (737) 206-1179
 - **LinkedIn**: [linkedin.com/in/dhruvrajsinghrathore](https://linkedin.com/in/dhruvrajsinghrathore)
 - **GitHub**: [github.com/dhruvrajsinghrathore](https://github.com/dhruvrajsinghrathore)
