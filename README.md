@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I am a dedicated Data Science graduate student at Texas A&M University with over 3 years of professional experience in data engineering, analytics, and AI development. My expertise spans the entire data lifecycle - from building scalable ETL pipelines processing 50TB+ of data to developing intelligent AI agent systems for test automation.
+I’m a Data Science graduate student at Texas A&M University with 3+ years of professional experience across data engineering, analytics, and applied AI. My work spans the full data lifecycle — from building scalable ETL and cloud data pipelines to developing AI-driven automation and intelligent agent systems.
 
-Currently serving as an AI Engineer Intern at TechSur Solutions, I specialize in creating multi-agent AI systems using CrewAI, LangGraph, and modern ML frameworks. My background includes roles as a Data Analyst at Draup Business Solutions and Data Scientist at HighRadius Corporation, where I've consistently delivered data-driven solutions that improve operational efficiency by 30-50%.
+Currently, I’m an AI Engineer Intern at TechSur Solutions, where I focus on designing multi-agent systems and automation workflows using modern frameworks like CrewAI, LangGraph, and PyTorch. Previously, I worked as a Data Engineer at Draup and Data Scientist at HighRadius, delivering end-to-end data solutions that enhanced performance, efficiency, and insight generation.
+
+I’m passionate about bridging data infrastructure with AI innovation to create systems that are not just intelligent, but also scalable, explainable, and business-impact driven.
 
 ## 🎯 Core Competencies
 
@@ -33,26 +35,7 @@ Currently serving as an AI Engineer Intern at TechSur Solutions, I specialize in
 - **Cloud Platforms**: AWS (EC2, S3, Lambda, Glue, EMR, Redshift), Databricks
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, NoSQL, schema design
 - **Data Architecture**: Data lakes, data warehouses, star/snowflake schemas, dbt
-
-## 🛠️ Technical Stack
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=postgresql)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java)
-![Shell Script](https://img.shields.io/badge/Shell_Script-Advanced-green?logo=gnu-bash)
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-Advanced-orange?logo=amazon-aws)
-![Databricks](https://img.shields.io/badge/Databricks-Advanced-red?logo=databricks)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?logo=docker)
-
-### **Data & Analytics**
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-Advanced-orange?logo=apache-spark)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-Advanced-blue?logo=apache-airflow)
-![Power BI](https://img.shields.io/badge/Power_BI-Advanced-yellow?logo=power-bi)
-
-
+- 
 ## 🎓 Education
 
 **Master of Science in Data Science** | *Texas A&M University* | 2024-2025  
@@ -60,19 +43,6 @@ Currently serving as an AI Engineer Intern at TechSur Solutions, I specialize in
 
 **Bachelor of Technology in Computer Science** | *SRM Institute of Science and Technology* | 2018-2022  
 *CGPA: 3.8* | Strong foundation in algorithms, data structures, and software engineering
-
-
-## 📜 Certifications
-
-- Machine Learning with Scikit-Learn
-- SQL-MySQL for Data Analytics and Business Intelligence  
-- Apache Spark (TM) SQL for Data Analysts
-- Python for Data Analysis and Visualization
-- Statistics for Data Science and Business Analysis
-- Redis Essential Training
-- The Complete dbt (Data Build Tool) Bootcamp
-- Docker Essential Training
-- Git Foundations Training
 
 ## 📫 Let's Connect
 
