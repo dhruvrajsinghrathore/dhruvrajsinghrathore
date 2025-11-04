@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Data Science graduate student at Texas A&M University with 3 years of professional experience across data engineering, analytics, and applied AI. My work spans the full data lifecycle — from building scalable ETL and cloud data pipelines to developing AI-driven automation and intelligent agent systems.
+I’m a Data Science graduate student at Texas A&M University with 3 years of professional experience across data engineering, analytics, and applied AI. My work spans the full data lifecycle, from building scalable ETL and cloud data pipelines to developing AI-driven automation and intelligent agent systems.
 
 Currently, I’m an AI Engineer Intern at TechSur Solutions, where I focus on designing multi-agent systems and automation workflows using modern frameworks like CrewAI, LangGraph, and PyTorch. Previously, I worked as a Data Engineer at Draup and Data Scientist at HighRadius, delivering end-to-end data solutions that enhanced performance, efficiency, and insight generation.
 
